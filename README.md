@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React and Firebase
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=firebase)]()
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=firebase&animation=spin)]()
 
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on github
