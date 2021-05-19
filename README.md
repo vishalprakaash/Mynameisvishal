@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vishal Prakash 
 <hr />
 
-- 🔭 I’m currently working on React and GraphQL
+- 🔭 I’m currently working on React, GraphQL and Gatsby
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=graphql) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=gatsby)
 
