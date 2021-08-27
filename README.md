@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vishal Prakash 
+### Hey there 👋, I'm Vishal Prakash 
 <hr />
 
 - 🔭 I’m currently working on React, GraphQL and Gatsby
